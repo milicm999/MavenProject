@@ -5,3 +5,15 @@ T
 $Child2/src/main/java/MainChild2.java,3\9\399f0764876abb1ee542b56f3e16cb0e94ec0ef3
 G
 src/main/java/Main.java,e\4\e44a8606ce010ad9b89aafdfcee2ab49afbf6d10
+[
++Child1/src/test/java/TestingMainChild1.java,0\d\0d6773f47ecd0db2c1a591687f38e13d02eb9d18
+Z
+*src/test/java/TestingMavenProjectMain.java,c\f\cf1dac872f42575281bee574db4ee48850d7ddb5
+[
++Child2/src/test/java/TestingMainChild2.java,4\b\4bccb2497b83a296fc189b1c9254e884b67e4e33
+>
+Child1/pom.xml,a\d\add403f268e2d456464898ce71feb4f5c1f74af5
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+>
+Child2/pom.xml,b\4\b4ddadb0659ff7b730b1e5b7758b87cd3bf1b356
